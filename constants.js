@@ -6,7 +6,7 @@ const PERSONAL_INFO = {
     email: "anjalikvcse2024@gmail.com",
     phone: "+91 9380154082",
     location: "Bangalore, India",
-    resumeLink: "https://drive.google.com/file/d/1234567890/view?usp=sharing",
+    resumeLink: "https://drive.google.com/file/d/1Jjizcx6ynqa_NL_DOcgYH6KaBot8pn1h/view?usp=drivesdk",
     description: "Aspiring full stack developer skilled in frontend (HTML,CSS) and backend (Java) development.Proficient in building responsive,high performance web applications.passionate about clean coding,problem solving,and continuous learning,ready for entry level software development roles.Currently student at Tap Academy."
 
 };
