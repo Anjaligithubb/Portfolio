@@ -115,7 +115,7 @@ const PROJECTS = [
         title: "Personal Portfolio website",
         description: "Designed and developed a responsive portfolio website showcasing skills,projects and achievements.Implemented clean ,user friendly UI with reusable components and smooth navigation for enhanced user experience.",
         technologies: ["HTML", "CSS", "JavaScript"],
-        githubLink: "https://github.com/Anjaligithubb/Portfolio.git"
+        githubLink: "anjaligithubb.github.io/Portfolio/"
         
     }
 ];
